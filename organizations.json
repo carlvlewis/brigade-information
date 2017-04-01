@@ -1759,10 +1759,10 @@
     },
       {
         "name": "Open Savannah",
-        "website": "http://opensavannah.org",
+        "website": "https://opensavannah.org",
         "events_url": "http://www.meetup.com/opensavannah/",
         "rss": "",
-        "projects_list_url": "https://github.com/opensavannah",
+        "projects_list_url": "https://opensavannah.org/projects",
         "city": "Savannah, GA",
         "latitude": "32.0835",
         "longitude": "-81.0998",
